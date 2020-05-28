@@ -13,7 +13,7 @@ for x in range(600):
     in_mandelbrot = True
     z = 0
     for i in range(1000):
-      z = z**4 + c
+      z = z**2 + c
       if abs(z) >= 2:
         in_mandelbrot = False
         break
