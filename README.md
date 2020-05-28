@@ -13,7 +13,7 @@ Zn+1 = Z^4 + C
 Или такой.
 Zn+1 = Z^15 + C
 
-![Множество Мандельброта3](https://user-images.githubusercontent.com/64311703/83176999-e19c8700-a10d-11ea-87a8-f957c92d0c80.JPG)
+![Множество Мандельброта3](https://user-images.githubusercontent.com/64311703/83182678-3d6b0e00-a116-11ea-9304-4d010a6e39ea.JPG)
 
 Можно заметить что при увеличение j множество округляется.
 Zn+1 = Z^1000 + C
